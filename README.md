@@ -1,5 +1,6 @@
-# fts_converter
-FTS to PNG, TIFF, JPG, or BMP.  
+# FTS to PNG, TIFF, JPG, or BMP.  
+
+Select one image, or as many as you want. I've tested with 9 in one batch so far and it has worked fine.  
   
 If you adjust any of the settings, hit preview and it will show you an updated preview of the selected image (or the first image in the batch you selected.)  
   
